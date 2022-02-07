@@ -1,14 +1,40 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Caesar Cipher</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div id="root">
-      <h1>Hello world!</h1>
-    </div>
-    <script src="index.js" type="module"></script>
-  </body>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <title>Gerenciador de senha segura  </title>
+</head>
+
+<body>
+<form>
+<h1>Gerenciador de senha para redes sociais</h1>
+<h2>Crie sua senha segura</h2>
+<div class="senhaSegura">
+<p>Uma maneira <strong>segura</strong> para criar senhas!</p>    
+        <p>Para criar sua senha segura: Digite uma senha. No campo deslocamento, selecione um número de sua preferência! Selecione codificar e clique em OK. Clique no botão "copiar" e pronto! A mensagem já estará
+              no seu CRTL+C.</p>
+        </div>
+             
+      <input id="suaSenha" placeholder="Digite a sua Senha" </input>
+      <div>
+        <h3>Escolha o deslocamento:</h3>
+        <input type="number" id="key" min="1" max="25" placeholder=" ">
+      </div>
+
+      <div class='buttons'>
+        <input type="radio" name="cifra" class="rd-btn" id="criptografar">Codificar
+        <input type="radio" name="cifra" class="rd-btn" id="descriptografar">Decifrar
+      </div>
+
+      <div class='buttons-row'>
+        <button class='flat-button' id="btn-cifrar">OK</button>
+        <button class='flat-button' id="copy-btn">Copiar</button>
+      </div>
+  <script src="index.js"></script>
+</form>
+</body>
+
 </html>
