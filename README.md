@@ -1,3 +1,18 @@
+# Resumo
+
+Este projeto foi desenvolvido como parte do objetivo de aprendizagem do Bootcamp da Laboratoria. Meu projeto escolhido foi o Cifra de César, devido ter entendido a lógica da cifra com facilidade. 
+
+## Tema e público alvo
+
+Hoje em dia é certo que o celular se tornou algo indispensável na rotina diária de varias pessoas no mundo. A sua integração no nosso quotidiano e das tecnologias a eles associadas tem vindo a manifestar um crescimento radical, permitindo ao indivíduo com uma utilização de redes sociais para variados ﬁns. Com isso meu projeto visa gerenciar senhas mais confiaveis para redes sociais e garantir mais segurança aos dados pessoais. 
+
+## Desenvolvimento
+<img  alt="cifra" height="150"  src="src/prototipo.jpg"></img> 
+
+O protótipo foi estruturado no Figma, com design minimalista e objetiva, com toque de cores modernas que rementem a tecnologia das redes sociais. 
+
+<img  alt="cifra" height="150"  src="src/paletasdecores.jpg"></img>
+
 # Cifra de César
 
 ## Índice

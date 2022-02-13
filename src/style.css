@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800;900&family=Roboto:wght@100&display=swap');
+
+body {
+    background: #030710;
+}
+.cabecalho {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  gap: 10px;
+}
+
+.redes {
+    height: 200px;
+}
+.tituloprincipal {
+    font-size: 72px;
+    font-style: bold;
+    text-align: center; 
+    background : -webkit-linear-gradient(#3e56ff, #ff41fd, #ffea63);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;   
+}
+.titulosecundario {
+    font-family: 'Montserrat', sans-serif;
+    color: #323c48;
+    font-weight: 700;
+    font-size: 24px;
+    text-align: center;  
+}
+.principal {
+    border-top: 0.2px solid #060d1e;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px; 
+}
+
+p {
+    color: #767c82;
+    font-family: roboto;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center; 
+    margin-left: 22%;
+    margin-right: 22%;
+}
+.input-result {
+    margin-top: 7px;
+}
+.redes2 {
+    height: 200px;
+}
+
+.deslocamento {
+    color: #676e76;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center; 
+}
+.check {
+    margin-top: 7px;
+    color: #676e76;
+    font-weight: 600;
+    text-align: center; 
+} 
+.resultado {
+    margin-top: 7px;
+}
+
+.flat-button {
+    background-color: #323c48;
+    margin: 10px;
+    padding: 10px 30px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    border-radius: 10px;
+    display: block;
+    border-style: none;
+}
+.buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px; 
+
+}
+
+.flat-button:hover {background-image: linear-gradient(to right, #DC2424 0%, #4A569D  51%, #DC2424  100%)}{
+    background-position: right center; 
+    color: #fff;
+    text-decoration: none;
+}
+
+.rodape {
+    background: #030710;
+    padding: 5px;
+    border-top: 0.2px solid #ff41fd;
+}
+.rodape:hover {background-image: linear-gradient(to right, #3858ff 0%, #f538ff  51%, #ffd868  100%)}{
+    background-position: right center; 
+    color: #fff;
+    text-decoration: none;}
+
+.rodapeparagrafo {
+    color: #ffffff;
+    font-family: roboto;
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center; 
+}
