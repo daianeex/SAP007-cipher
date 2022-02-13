@@ -11,7 +11,7 @@ Hoje em dia é certo que o celular se tornou algo indispensável na rotina diár
 
 O protótipo foi estruturado no Figma, com design minimalista e objetiva, com toque de cores modernas que rementem a tecnologia das redes sociais. 
 
-![Prototipo](https://github.com/daianeex/SAP007-cipher/blob/main/src/paletasdecores.pngg) 
+![Paletas de cores](https://github.com/daianeex/SAP007-cipher/blob/main/src/paletasdecores.png) 
 
 # Cifra de César
 
