@@ -4,14 +4,14 @@ Este projeto foi desenvolvido como parte do objetivo de aprendizagem do Bootcamp
 
 ## Tema e público alvo
 
-Hoje em dia é certo que o celular se tornou algo indispensável na rotina diária de varias pessoas no mundo. A sua integração no nosso quotidiano e das tecnologias a eles associadas tem vindo a manifestar um crescimento radical, permitindo ao indivíduo com uma utilização de redes sociais para variados ﬁns. Com isso meu projeto visa gerenciar senhas mais confiaveis para redes sociais e garantir mais segurança aos dados pessoais. 
+Hoje em dia é certo que o celular se tornou algo indispensável na rotina diária de varias pessoas no mundo. A sua integração no nosso quotidiano e das tecnologias a eles associadas tem vindo a manifestar um crescimento radical, permitindo ao indivíduo com uma utilização de redes sociais para  vários fins. Com isso meu projeto visa gerenciar senhas mais confiaveis para redes sociais e garantir mais segurança aos dados pessoais. 
 
 ## Desenvolvimento
-<img  alt="cifra" height="150"  src="src/prototipo.jpg"></img> 
+![Prototipo](https://github.com/daianeex/SAP007-cipher/blob/main/src/prototipo.png) 
 
 O protótipo foi estruturado no Figma, com design minimalista e objetiva, com toque de cores modernas que rementem a tecnologia das redes sociais. 
 
-<img  alt="cifra" height="150"  src="src/paletasdecores.jpg"></img>
+![Paletas de cores](https://github.com/daianeex/SAP007-cipher/blob/main/src/paletasdecores.png) 
 
 # Cifra de César
 
