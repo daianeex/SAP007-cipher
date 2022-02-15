@@ -1,38 +1,38 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <link href="style.css" rel="stylesheet" type="text/css">
-  <title>Gerenciador de senha segura  </title>
+  <title>Gerenciador de senha segura </title>
 </head>
 
 <body>
   <header class="cabecalho">
     <div class="text-principal">
-    <h1 class="tituloprincipal"> PASSWORD CODE </h1>
-    <h2 class="titulosecundario"> Uma maneira <b> fácil e segura</b> de criar senhas! </h2></div>
+      <h1 class="tituloprincipal"> PASSWORD CODE </h1>
+      <h2 class="titulosecundario"> Uma maneira <b> fácil e segura</b> de criar senhas! </h2>
+    </div>
     <img class="redes" src="redes.png">
   </header>
 
   <main class="principal">
-    <p>Para criar sua senha é muito fácil: Digite sua idéia. No campo deslocamento, selecione um número de sua preferência! E pronta sua senha estará codificada e pronta para usar. Apertando em copiar sua senha estará no seu CRTL+C.</p>  
-    <input id="input-senha" placeholder="Digite a sua ideia" </input> 
-      <h4 class="deslocamento">Escolha o deslocamento:</h4>
-      <input type="number" id="key" placeholder="0" min="1" max="26" placeholder=" "> 
-      
-      <div class="check">
-      <input type="radio" name="cifra" class="rd-btn" id="rdencode">CODIFICAR
-      <input type="radio" name="cifra" class="rd-btn" id="rddecode">DECIFRAR
-      </div>
+    <p>Para criar sua senha é muito fácil: Digite sua idéia. No campo deslocamento, selecione um número de sua
+      preferência! E pronta sua senha estará codificada e pronta para usar. Apertando em copiar sua senha estará no seu
+      CRTL+C.</p>
+    <input id="suaSenha" placeholder="Digite a sua ideia"/>
+    <h4 class="deslocamento">Escolha o deslocamento:</h4>
+    <input type="number" id="offset" placeholder="0" min="1" max="26" placeholder=" "/>
 
-      <div class="resultado">
-      <input id="input-result" placeholder="Senha segura" </input> </div>
-      
-      <div class="buttons">
-        <button class='flat-button' id="btncifrar">OK</button>
-        <button class='flat-button' id="copybtn">Copiar</button>
-      </div>
+    <div class="resultado">
+      <input id="senhaPronta" placeholder="Senha segura"/>
+    </div>
+
+    <div class="buttons">
+      <button class='flat-button' id="btncifrar">CODIFICAR</button>
+      <button class='flat-button' id="btndecifrar">DECIFRAR</button>
+    </div>
   </main>
 
   <footer class="rodape">
@@ -42,6 +42,7 @@
       </a>
     </p>
 
-  <script src="index.js"></script>
+    <script src="index.js" type="module"></script>
 </body>
+
 </html>
