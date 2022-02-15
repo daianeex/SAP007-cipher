@@ -94,7 +94,8 @@ p {
 
 }
 
-.flat-button:hover {background-image: linear-gradient(to right, #DC2424 0%, #4A569D  51%, #DC2424  100%)}{
+.flat-button:hover {
+    background-image: linear-gradient(to right, #DC2424 0%, #4A569D  51%, #DC2424  100%);
     background-position: right center; 
     color: #fff;
     text-decoration: none;
@@ -105,7 +106,8 @@ p {
     padding: 5px;
     border-top: 0.2px solid #ff41fd;
 }
-.rodape:hover {background-image: linear-gradient(to right, #3858ff 0%, #f538ff  51%, #ffd868  100%)}{
+.rodape:hover {
+    background-image: linear-gradient(to right, #3858ff 0%, #f538ff  51%, #ffd868  100%);
     background-position: right center; 
     color: #fff;
     text-decoration: none;}
