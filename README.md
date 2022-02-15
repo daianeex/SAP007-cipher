@@ -1,10 +1,10 @@
 # Resumo
 
-Este projeto foi desenvolvido como parte do objetivo de aprendizagem do Bootcamp da Laboratoria. Meu projeto escolhido foi o Cifra de César, devido ter entendido a lógica da cifra com facilidade. 
+O projeto em questão foi desenvolvido como parte do objetivo de aprendizagem do Bootcamp da Laboratoria. O tema escolhido foi o Cifra de César, devido à facilidade de entendimento que tive em relação a sua lógica.
 
 ## Tema e público alvo
 
-Hoje em dia é certo que o celular se tornou algo indispensável na rotina diária de varias pessoas no mundo. A sua integração no nosso quotidiano e das tecnologias a eles associadas tem vindo a manifestar um crescimento radical, permitindo ao indivíduo com uma utilização de redes sociais para  vários fins. Com isso meu projeto visa gerenciar senhas mais confiaveis para redes sociais e garantir mais segurança aos dados pessoais. 
+Nos dias atuais, percebe-se o quão indispensável a tecnologia se tornou na rotina do ser humano. A sua integração no nosso cotidiano, tem manifestado um crescimento radical, permitindo ao indivíduo a utilização, por exemplo, de redes sociais para diversas finalidades. Portanto, o projeto em questão visa gerenciar senhas mais confiáveis para redes sociais e garantir mais segurança dos dados pessoais.
 
 ## Desenvolvimento
 ![Prototipo](https://github.com/daianeex/SAP007-cipher/blob/main/src/prototipo.png) 
